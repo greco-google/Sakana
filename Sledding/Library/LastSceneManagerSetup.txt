@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Sledding_Cave.unity
+  isLoaded: 1
+  isActive: 1
